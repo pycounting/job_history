@@ -1,0 +1,5 @@
+INSERT INTO job_history (id, employment_type, start_date, end_date, employer, employer_address_number, employer_address_street, employer_city, employer_state, employer_zipcode, employer_country, employer_telephone, job_title, job_description, supervisor_name, supervisor_title, salary_beginning, salary_ending, reason_for_leaving)
+	VALUES(0, 'education', '2005-08-29', '2006-12-15', 'Montana State University', 100, 'Culbertson Hall', 'Bozeman', 'MT', 59717, 4069942672, 'United States', 'Student', 'Undergraduate in Accounting', 'n/a', 'n/a', 'n/a', 'n/a', 'Transferred to The University of Montana');
+	
+INSERT INTO job_history (id, employment_type, start_date, end_date, employer, employer_address_number, employer_address_street, employer_city, employer_state, employer_zipcode, employer_country, employer_telephone, job_title, job_description, supervisor_name, supervisor_title, salary_beginning, salary_ending, reason_for_leaving)
+	VALUES(1, 'education', '2006-01-23', '2009-07-31', 'The University of Montana', 32, 'Campus Dr', 'Missoula', 'MT', 59812, 4062430211, 'United States', 'Student', 'Undergraduate in Accounting', 'n/a', 'n/a', 'n/a', 'n/a', 'Graduated');
